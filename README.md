@@ -11,3 +11,7 @@ This repo contains my solutions from *Daily Conding Problem* book and emails.
 	* Implemented in Scala without using division
 
 ## Exercices from emails
+
+* Problem 1: Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+	* Implemented in Scala with complexity 0(n^2)
+	* Implemented in Scala with complexity 0(n), using dynamic programming
